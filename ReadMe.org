@@ -1,0 +1,6 @@
+#+Checkers
+
+* About Checkers
+
+This is suposed to be a simple checkers program. I am writing this in order to get more familiar with writing
+GUI's wit Gtk+. 
