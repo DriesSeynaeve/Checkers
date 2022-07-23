@@ -1,4 +1,4 @@
-#+Checkers
+#+TITLE:Checkers
 
 * About Checkers
 
